@@ -1,6 +1,6 @@
 # Nonlinear-ODEs-and-Linear-PDEs-Equivalence-in-Fluid-Dynamics
 
-This research was a group project for my Ordinary Differential Equations class. I undependently created a LaTeX file to provide an alternative format for viewing our presentation.
+This research was a group project for my Ordinary Differential Equations class. I independently created a LaTeX file to provide an alternative format for viewing our presentation.
 
 ## Other contributors: 
 - **Micah Lawal**
